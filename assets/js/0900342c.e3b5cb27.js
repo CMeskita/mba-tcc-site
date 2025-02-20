@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmba_tcc_site=self.webpackChunkmba_tcc_site||[]).push([[1734],{8398:t=>{t.exports=JSON.parse('{"metadata":{"permalink":"/mba-tcc-site/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
