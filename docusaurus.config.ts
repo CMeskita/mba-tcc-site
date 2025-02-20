@@ -65,6 +65,7 @@ const config: Config = {
     ],
   ],
 
+
   themeConfig: {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
@@ -76,14 +77,17 @@ const config: Config = {
       },
       items: [
         {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          href:'https://www.linkedin.com/in/danielle-mesquita-037890150/',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Linkedln',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://wa.me/85997607824',
+          label: 'Contato',
+          position: 'left'
+        },
+        {
+          href: 'https://github.com/CMeskita',
           label: 'GitHub',
           position: 'right',
         },
@@ -110,11 +114,7 @@ const config: Config = {
             },
             {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'X',
-              href: 'https://x.com/docusaurus',
+              href: 'https://discord.gg/rukPa4aA',
             },
           ],
         },
@@ -122,17 +122,13 @@ const config: Config = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
-              to: '/blog',
-            },
-            {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/CMeskita',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Trabalho de Cocnlusão de Curso.`,
     },
     prism: {
       theme: prismThemes.github,
