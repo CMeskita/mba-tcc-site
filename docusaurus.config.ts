@@ -17,7 +17,7 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'meskita', // Usually your GitHub org/user name.
+  organizationName: 'cmeskita', // Usually your GitHub org/user name.
   projectName: 'mba-tcc-site', // Usually your repo name.
   deploymentBranch: 'gh-pages',
 
