@@ -128,7 +128,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Trabalho de Cocnlusão de Curso.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Trabalho de Conclusão de Curso.`,
     },
     prism: {
       theme: prismThemes.github,
