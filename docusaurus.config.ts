@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'Trabalho de Conclusão de Curso',
+  title: 'Trabalho de Conclusão de Curso - tcc',
   tagline: 'Padrões de Projeto Back-end Web',
   favicon: 'img/favicon.ico',
 
